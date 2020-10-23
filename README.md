@@ -27,12 +27,12 @@ Some of the most popular tools used:
 
 name | use | logo
 -|-|-
-Git | Version control and code deployement tool | ![git](img/git.png) <!-- .element width="200" -->
-Gradle | Build tool | ![gradle](img/gradle.png) <!-- .element width="200" -->
-Jenkins | CD/CI tool | ![jenkins](img/jenkins.png) <!-- .element width="200" -->
-Docker | Containerization tool | ![docker](img/docker.png) <!-- .element width="200" -->
+Git | Version control and code deployement tool | ![git](img/git.png)
+Gradle | Build tool | ![gradle](img/gradle.png)
+Jenkins | CD/CI tool | ![jenkins](img/jenkins.png)
+Docker | Containerization tool | ![docker](img/docker.png)
 Ansible | Configuration management tool | ![ansible](img/ansible.png)
-Slack | Communication tool | ![slack](img/slack.jpeg) <!-- .element width="200" -->
+Slack | Communication tool | ![slack](img/slack.jpeg)
 
 ## Cloud computing
 
