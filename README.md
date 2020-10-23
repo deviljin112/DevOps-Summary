@@ -64,3 +64,5 @@ FaaS stands for Functions as a Service. This type of cloud computing is a versio
 
 onprem => On-premises is installed and runs on a computer on the premises of the organisation
 localhost => Local machine (currently used computer)
+hybrid => allows small business software applications that run on their own internal desktop and servers to applications that run in the cloud
+public cloud => type of computing that makes resources available to public via internet
