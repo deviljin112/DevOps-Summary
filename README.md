@@ -27,12 +27,12 @@ Some of the most popular tools used:
 
 name | use | logo
 -|-|-
-Git | Version control and code deployement tool | ![git](img/git.png)
-Gradle | Build tool | ![gradle](img/gradle.png)
-Jenkins | CD/CI tool | ![jenkins](img/jenkins.png)
-Docker | Containerization tool | ![docker](img/docker.png)
+Git | Version control and code deployement tool | ![git](img/git.png = 200x200)
+Gradle | Build tool | ![gradle](img/gradle.png = 200x200)
+Jenkins | CD/CI tool | ![jenkins](img/jenkins.png = 200x200)
+Docker | Containerization tool | ![docker](img/docker.png = 200x171)
 Ansible | Configuration management tool | ![ansible](img/ansible.png)
-Slack | Communication tool | ![slack](img/slack.jpeg)
+Slack | Communication tool | ![slack](img/slack.jpeg= 200x112)
 
 ## Cloud computing
 
@@ -41,6 +41,8 @@ Cloud computing consists of renting a remote computer such as Azure, for the nee
 Cloud computing is a good way of off loading onprem development and move all the computational power to the cloud.
 
 This allows companies to reduce expenses of purchasing computing power to perform a project and instead only rent a computer as per needed basis.
+
+![piramid](img/piramid.png)
 
 ### SaaS
 
